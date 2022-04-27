@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "719953373310",
+    "project_id": "password-f4664",
+    "storage_bucket": "password-f4664.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:719953373310:android:85660f78c4ce62b197502f",
+        "android_client_info": {
+          "package_name": "com.example.password_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "719953373310-snerk0o8asqco7ad2b3q10nqifc3r5kr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOpyni38BoDK4D8E-VfKtg-oOZp5mDbTo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "719953373310-snerk0o8asqco7ad2b3q10nqifc3r5kr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
